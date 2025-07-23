@@ -8,3 +8,6 @@ Dashboard built using Gradio.
 <img width="1888" height="871" alt="image" src="https://github.com/user-attachments/assets/af4f6f0c-c2da-4824-bb8e-7961d77a4f32" />
 
 <img width="1878" height="863" alt="image" src="https://github.com/user-attachments/assets/382f4c72-5746-4bcd-a7a2-920abe243a0d" />
+
+<img width="1865" height="813" alt="image" src="https://github.com/user-attachments/assets/1558f592-6cd5-4c39-9333-a37914a6a083" />
+
